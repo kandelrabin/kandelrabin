@@ -2,7 +2,7 @@
 
 ## Programming Languages and Tools:
 
-| Rank | THING-TO-RANK |
+| Rank | Language |
 |-----:|---------------|
 |     1|      Python         |
 |     2|        R       |
