@@ -1,23 +1,18 @@
 ## 👋 Hi there 
 
-<!--
-**jetzlstorfer/jetzlstorfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Programming Languages and Tools:
 
-Here are some ideas to get you started:
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|      Python         |
+|     2|        R       |
+|     3|        SQL       |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
 ## 🎓 Certificates & Trainings
 
 {{comment "<!--START_SECTION:badges-->"}}
 {{comment "<!--END_SECTION:badges-->"}}
 
-Find all [my badges on Credly.com](https://www.credly.com/users/rabin-kandel.68e01f1c/badges).
+Find all [my badges on Credly.com](https://www.credly.com/users/kandelrabin/badges).
