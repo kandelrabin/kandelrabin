@@ -2,12 +2,12 @@
 
 ## Programming Languages and Tools:
 
-| Proficiency | Language |
-|-----:|---------------|
+|Proficiency| Language |
+|:----------|:-------------:|
 |Intermdiate|      Python   |
-|     Basic|      R        |
-|     Basic|      Java     |
-|     Basic|      SQL      |
+|      Basic|      R        |
+|      Basic|      Java     |
+|      Basic|      SQL      |
 
 
 
