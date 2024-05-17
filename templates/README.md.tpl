@@ -2,11 +2,13 @@
 
 ## Programming Languages and Tools:
 
-| Rank | Language |
+| Proficiency | Language |
 |-----:|---------------|
-|     1|      Python         |
-|     2|        R       |
-|     3|        SQL       |
+|Intermdiate|      Python   |
+|     Basic|      R        |
+|     Basic|      Java     |
+|     Basic|      SQL      |
+
 
 
 
