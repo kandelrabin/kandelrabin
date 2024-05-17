@@ -4,7 +4,7 @@
 
 |Proficiency| Language |
 |:----------|:-------------:|
-|Intermdiate|      Python   |
+|Intermediate|      Python   |
 |      Basic|      R        |
 |      Basic|      Java     |
 |      Basic|      SQL      |
