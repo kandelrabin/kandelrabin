@@ -4,13 +4,11 @@
 
 |Proficiency| Language |
 |:----------|:-------------:|
-|Intermediate|      Python   |
+|Intermediate|     Python   |
 |      Basic|      R        |
 |      Basic|      Java     |
-|      Basic|      SQL      |
 
-
-
+![Codewars](https://www.codewars.com/users/kandelrabin/badges/micro)
 
 ## 🎓 Certificates & Trainings
 
