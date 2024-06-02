@@ -16,4 +16,4 @@
 Find all [my badges on Credly.com](https://www.credly.com/users/kandelrabin/badges).
 
 ## 🏃‍♂️ Training
-![Codewars](https://www.codewars.com/users/kandelrabin/badges/small)
+[![Codewars](https://www.codewars.com/users/kandelrabin/badges/small)](https://www.codewars.com/users/kandelrabin)
