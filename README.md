@@ -15,13 +15,16 @@
 ---
 
 **Frameworks & Technologies:**
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Microservice](https://img.shields.io/badge/-Microservice-006DB6?style=for-the-badge&logo=linux&logoColor=white)
 ![SOLID](https://img.shields.io/badge/-SOLID-00599C?style=for-the-badge&logo=codeforces&logoColor=white)
 ![DRY](https://img.shields.io/badge/-DRY-00599C?style=for-the-badge&logo=codeforces&logoColor=white)
@@ -40,8 +43,6 @@
 ## 🎓 Certificates
 
 <!--START_SECTION:badges-->
-[![[PCEP-30-02] PCEP™ – Certified Entry-Level Python Programmer](https://images.credly.com/size/110x110/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png)](http://www.credly.com/badges/1f515cf3-53dd-4113-9123-6243e2b581e9 "[PCEP-30-02] PCEP™ – Certified Entry-Level Python Programmer")
-[![[PCAP-31-03] PCAP™ – Certified Associate Python Programmer](https://images.credly.com/size/110x110/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png)](http://www.credly.com/badges/b35bc49a-4eac-4f67-921c-8188d6d5812f "[PCAP-31-03] PCAP™ – Certified Associate Python Programmer")
 <!--END_SECTION:badges-->
 
 Find all [my badges on Credly.com](https://www.credly.com/users/kandelrabin/badges).
