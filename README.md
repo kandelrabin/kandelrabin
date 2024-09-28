@@ -22,7 +22,6 @@
 ## 🎓 Certificates
 
 <!--START_SECTION:badges-->
-[![[PCAP-31-03] PCAP™ – Certified Associate Python Programmer](https://images.credly.com/size/110x110/images/4e248e82-9e87-4a63-9263-250fafe5fb1f/image.png)](http://www.credly.com/badges/b35bc49a-4eac-4f67-921c-8188d6d5812f "[PCAP-31-03] PCAP™ – Certified Associate Python Programmer")
 <!--END_SECTION:badges-->
 
 Find all [my badges on Credly.com](https://www.credly.com/users/kandelrabin/badges).
