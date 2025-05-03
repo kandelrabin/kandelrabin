@@ -4,8 +4,8 @@ on:
   workflow_dispatch:
   push:
   schedule:
-    # Runs at 0am UTC every day
     - cron: "0 0 * * *"
+    
 jobs:
   update-readme:
     name: Update Readme with badges
@@ -15,3 +15,9 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
+        with:
+          CREDLY_USER: kandelrabin
+          COMMIT_MESSAGE: "Updated README with Credly badges"
+          CREDLY_SORT: RECENT
+          BADGE_SIZE: 110
+          NUMBER_LAST_BADGES: 10
