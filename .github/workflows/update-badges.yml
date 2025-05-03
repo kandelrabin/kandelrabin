@@ -1,23 +1,25 @@
 name: Update badges
 
 on:
-  workflow_dispatch:
-  push:
   schedule:
-    - cron: "0 0 * * *"
-    
+    # Runs at 2am UTC
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'     
+        required: true
+        default: 'warning'
+      tags:
+        description: 'Test scenario tags' 
 jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: kandelrabin
-          COMMIT_MESSAGE: "Updated README with Credly badges"
-          CREDLY_SORT: RECENT
-          BADGE_SIZE: 110
-          NUMBER_LAST_BADGES: 10
+          GH_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          BADGE_SIZE: 100
+          NUMBER_LAST_BADGES: 24
