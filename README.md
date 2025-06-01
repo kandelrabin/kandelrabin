@@ -20,5 +20,7 @@
 [![[PCPP-32-101] PCPP1 – Certified Professional Python Programmer Level 1](https://images.credly.com/size/110x110/images/37e26478-d80c-43e8-80eb-ec492f3a26c1/image.png)](http://www.credly.com/badges/18124b63-d012-448e-9e3c-8537c1fe1d19 "[PCPP-32-101] PCPP1 – Certified Professional Python Programmer Level 1")
 [<img src="https://templates-eu.images.credential.net/1714554873817920245255208138667.png" alt="Software Development" width="110" height="110">](https://credentials.techskills.org/7bc2946b-2531-4a8f-ab70-8ee1ca1ca479#acc.DLndpjgW "Software Development")
 [![LFEL1011: OpenAPI Fundamentals](https://images.credly.com/size/110x110/images/702cdbe4-2925-496b-a77f-96fdf90404a7/blob)](https://www.credly.com/badges/cfc3d4c3-d6e2-430c-b0df-cc18a8d05043 "[LFEL1011: OpenAPI Fundamentals]")
+[![[LFC111] Open Source Technical Documentation Essentials](https://images.credly.com/size/110x110/images/286841ed-5966-4843-b020-c00b17636e38/blob)](https://www.credly.com/badges/6f681bb8-a98a-4efa-b94b-5aec5e134613 "[LFC111] Open Source Technical Documentation Essentials")
+
 
 Find all [my badges on Credly.com](https://www.credly.com/users/kandelrabin/badges).
