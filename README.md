@@ -18,6 +18,6 @@
 ## 🎓 Certificates
 
 [![[PCEP-30-02] PCEP™ – Certified Entry-Level Python Programmer](https://images.credly.com/size/110x110/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png)](http://www.credly.com/badges/1f515cf3-53dd-4113-9123-6243e2b581e9 "[PCEP-30-02] PCEP™ – Certified Entry-Level Python Programmer")
-[![LFEL1011: OpenAPI Fundamentals](https://images.credly.com/size/110x110/images/702cdbe4-2925-496b-a77f-96fdf90404a7/blob)](https://www.credly.com/badges "[LFEL1011: OpenAPI Fundamentals]")
+[![LFEL1011: OpenAPI Fundamentals](https://images.credly.com/size/110x110/images/702cdbe4-2925-496b-a77f-96fdf90404a7/blob)](https://www.credly.com/badges/cfc3d4c3-d6e2-430c-b0df-cc18a8d05043 "[LFEL1011: OpenAPI Fundamentals]")
 
 Find all [my badges on Credly.com](https://www.credly.com/users/kandelrabin/badges).
